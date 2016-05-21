@@ -1,3 +1,9 @@
+// Javascript code to convert multiple digits into a single digit by * multiple digits
+
+//In num set any number 
+
+
+
 var num=59;
 
 num=num+'';
@@ -16,7 +22,5 @@ for(var i=1;i<num.length;i++)
 }
 return total;
 }
-
-
 
 
